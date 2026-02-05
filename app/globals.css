@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-navy-950 text-white font-body antialiased;
+}
+
+h1, h2, h3, h4, h5 {
+  @apply font-heading;
+}
+
+a {
+  @apply transition-colors duration-200;
+}
+
+.bg-scanlines {
+  background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px);
+  background-size: 100% 40px;
+}
+
+.faded-grid {
+  background-image: var(--grid), var(--radar);
+  background-size: 120px 120px, auto;
+  opacity: 0.35;
+}
+
+.snipcart-count {
+  @apply inline-flex h-6 min-w-[1.5rem] items-center justify-center rounded-full bg-teal-500 text-xs font-semibold text-navy-950;
+}

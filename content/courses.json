@@ -1,0 +1,178 @@
+[
+  {
+    "id": "ctg-cpo-l3",
+    "name": "Close Protection Operative (Level 3)",
+    "slug": "close-protection-operative-level-3",
+    "price": 995,
+    "category": "Close Protection",
+    "level": "Level 3",
+    "delivery": "Classroom-based",
+    "elcasEligible": true,
+    "duration": "3–4 days",
+    "location": "UK (varies by date)",
+    "summary": "A structured introduction to close protection principles, focusing on awareness, planning, and professional conduct.",
+    "outcomes": [
+      "Situational awareness and basic threat assessment",
+      "Planning and preparation principles",
+      "Professional conduct and communication standards"
+    ],
+    "whoFor": "Individuals seeking to enter the security sector or those developing foundational knowledge in close protection.",
+    "assessment": "Short practical exercises and knowledge checks.",
+    "certification": "A Level 3 qualification is awarded on successful completion.",
+    "fundingNote": "Some learners may be eligible for external funding. Please contact us for guidance."
+  },
+  {
+    "id": "ctg-hea-l3",
+    "name": "Hostile Environment Awareness (Level 3)",
+    "slug": "hostile-environment-awareness-level-3",
+    "price": 850,
+    "category": "Awareness",
+    "level": "Level 3",
+    "delivery": "Classroom-based",
+    "elcasEligible": true,
+    "duration": "3 days",
+    "location": "UK (varies by date)",
+    "summary": "Training designed to support safer decision-making and personal awareness in higher-risk environments.",
+    "outcomes": [
+      "Identify and evaluate environmental risks",
+      "Apply personal safety principles",
+      "Make informed travel and planning decisions"
+    ],
+    "whoFor": "Learners who require baseline awareness training for higher-risk environments.",
+    "assessment": "Scenario-based exercises.",
+    "certification": "A Level 3 award is provided on successful completion.",
+    "fundingNote": "ELCAS funding may apply for eligible learners."
+  },
+  {
+    "id": "ctg-evs-l2",
+    "name": "Event and Venue Safety Essentials (Level 2)",
+    "slug": "event-venue-safety-essentials-level-2",
+    "price": 395,
+    "category": "Event Safety",
+    "level": "Level 2",
+    "delivery": "Classroom-based",
+    "elcasEligible": false,
+    "duration": "2 days",
+    "location": "UK (varies by date)",
+    "summary": "Foundational training for individuals working in event and venue environments.",
+    "outcomes": [
+      "Understand event safety principles",
+      "Support crowd movement and control",
+      "Apply basic incident procedures"
+    ],
+    "whoFor": "Individuals new to event and venue environments.",
+    "assessment": "Short written assessment and scenario discussion.",
+    "certification": "A Level 2 qualification is awarded on successful completion.",
+    "fundingNote": "External funding may be available in specific cases."
+  },
+  {
+    "id": "ctg-ss-l2",
+    "name": "Spectator Safety (Level 2)",
+    "slug": "spectator-safety-level-2",
+    "price": 495,
+    "category": "Venue Safety",
+    "level": "Level 2",
+    "delivery": "Classroom-based",
+    "elcasEligible": false,
+    "duration": "2 days",
+    "location": "UK (varies by date)",
+    "summary": "A knowledge-based qualification for those working at public events and venues.",
+    "outcomes": [
+      "Support safe spectator management",
+      "Recognise safety risks",
+      "Follow venue procedures"
+    ],
+    "whoFor": "Individuals working at public events and venues.",
+    "assessment": "Knowledge-based assessment.",
+    "certification": "A Level 2 qualification is awarded on successful completion.",
+    "fundingNote": "Funding eligibility varies by employer or scheme."
+  },
+  {
+    "id": "ctg-pbo-l2",
+    "name": "Pit Barrier Operations (Level 2)",
+    "slug": "pit-barrier-operations-level-2",
+    "price": 295,
+    "category": "Barrier Operations",
+    "level": "Level 2",
+    "delivery": "Classroom-based",
+    "elcasEligible": false,
+    "duration": "1 day",
+    "location": "UK (varies by date)",
+    "summary": "Training covering safety awareness and responsibilities in front-of-stage environments.",
+    "outcomes": [
+      "Understand barrier roles and responsibilities",
+      "Apply safe operating procedures",
+      "Communicate effectively in live settings"
+    ],
+    "whoFor": "Personnel working at front-of-stage or barrier positions.",
+    "assessment": "Short written assessment and operational discussion.",
+    "certification": "A Level 2 qualification is awarded on successful completion.",
+    "fundingNote": "Funding eligibility varies by employer or scheme."
+  },
+  {
+    "id": "ctg-ersa-l3",
+    "name": "Emergency Care for First Responders (Level 3)",
+    "slug": "emergency-care-first-responders-level-3",
+    "price": 450,
+    "category": "Emergency Care",
+    "level": "Level 3",
+    "delivery": "Classroom-based",
+    "elcasEligible": true,
+    "duration": "2 days",
+    "location": "UK (varies by date)",
+    "summary": "Practical training in first response principles for workplace and public settings.",
+    "outcomes": [
+      "Provide immediate life-saving care",
+      "Manage incidents safely",
+      "Document response actions"
+    ],
+    "whoFor": "Individuals who may be first on scene during incidents.",
+    "assessment": "Practical assessment and short written knowledge check.",
+    "certification": "A Level 3 qualification is awarded on successful completion.",
+    "fundingNote": "ELCAS funding may apply for eligible learners."
+  },
+  {
+    "id": "ctg-risk-l3",
+    "name": "Risk Assessment in the Workplace (Level 3)",
+    "slug": "risk-assessment-workplace-level-3",
+    "price": 375,
+    "category": "Risk Assessment",
+    "level": "Level 3",
+    "delivery": "Classroom-based",
+    "elcasEligible": true,
+    "duration": "2 days",
+    "location": "UK (varies by date)",
+    "summary": "Training focused on identifying hazards, assessing risk, and applying suitable controls.",
+    "outcomes": [
+      "Identify hazards and risks",
+      "Apply suitable control measures",
+      "Document assessments clearly"
+    ],
+    "whoFor": "Supervisors and staff responsible for workplace safety.",
+    "assessment": "Written assessment with practical planning tasks.",
+    "certification": "A Level 3 qualification is awarded on successful completion.",
+    "fundingNote": "ELCAS funding may apply for eligible learners."
+  },
+  {
+    "id": "ctg-hs-l4",
+    "name": "Health and Safety for Supervisors (Level 4)",
+    "slug": "health-safety-supervisors-level-4",
+    "price": 695,
+    "category": "Health & Safety",
+    "level": "Level 4",
+    "delivery": "Classroom-based",
+    "elcasEligible": true,
+    "duration": "4 days",
+    "location": "UK (varies by date)",
+    "summary": "A course designed to support supervisory responsibility for workplace safety.",
+    "outcomes": [
+      "Lead workplace safety systems",
+      "Supervise compliance requirements",
+      "Communicate safety responsibilities"
+    ],
+    "whoFor": "Supervisors and managers with responsibility for safety oversight.",
+    "assessment": "Written assessment and workplace planning exercises.",
+    "certification": "A Level 4 qualification is awarded on successful completion.",
+    "fundingNote": "ELCAS funding may apply for eligible learners."
+  }
+]
