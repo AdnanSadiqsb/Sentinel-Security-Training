@@ -9,7 +9,7 @@ export default function AboutPage() {
         description="Professional, operationally grounded security training delivered by experienced instructors."
       />
 
-      {/* ABOUT US */}
+      {/* ABOUT US first */}
       <div className="grid gap-6 rounded-2xl border border-white/10 bg-navy-900/60 p-6 text-sm text-white/70 shadow-glow">
         <h2 className="text-lg font-semibold text-white">About Us</h2>
 
@@ -135,7 +135,8 @@ export default function AboutPage() {
           ))}
         </ul>
 
-        <h3 className="text-white font-semibold">Where You Can Work</h3>
+        <h3 className="text-white font-semibold">Where You Can Work </h3>
+        
         <ul className="space-y-2">
           {[
             "UHNW & Family Office Protection",
